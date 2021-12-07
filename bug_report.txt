@@ -1,0 +1,7 @@
+Summary: Созданте нового репозитория ,
+Preconditions: Открыта строница провиля на GitHub.com,
+Steps: 1. Открыта страница на https://github.com,
+	2. Нависти курсор на значок add file,
+	3. нажать create new fiel,
+Rusult: Новый репозиторий создан,
+Expected Result: Создан новый репозиторий.
